@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Grupp3_Login_API.props" />
+</Project>
